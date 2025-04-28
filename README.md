@@ -8,17 +8,12 @@ Ich bin technikbegeistert, kreativ und arbeite gerne an spannenden Projekten run
 - 🖥️ Interessiert an Serverinfrastruktur, Webentwicklung und Automatisierung
 - 🛠️ Erfahrung mit **Pterodactyl**, **Velocity**, **NGINX**, **Python**, **Java**, **HTML/CSS**
 - 📚 Immer auf der Suche nach neuen Technologien und Möglichkeiten, mich weiterzuentwickeln
-- 🇩🇪 Lebe in Deutschland, nahe dem schönen Teutoburger Wald
+- 🇩🇪 Lebe in Deutschland
 
 ## 📌 Meine aktuellen Projekte
 - **DMH-Network** – Minecraft-Netzwerk (mc.dmh-network.de)
 - **GrüneEule** – Ein vielseitiger Projekt mit Bots, Websites und mehr
 - **HMTPlay** – Minigames-Website (hmt-play.hmt-network.de)
-
-## 🛠️ Technologien und Tools
-- **Programmiersprachen:** Python, Java, HTML, CSS, JavaScript
-- **Frameworks:** Disnake, Flask, Velocity Proxy
-- **Tools:** Pterodactyl, Docker, Git, VSCode, NGINX, Linux
 
 ## 📫 Kontakt
 - Discord: `jumpstone4477`
