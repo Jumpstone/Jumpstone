@@ -12,7 +12,7 @@ Ich bin technikbegeistert, kreativ und arbeite gerne an spannenden Projekten run
 
 ## 📌 Meine aktuellen Projekte
 - **DMH-Network** – Minecraft-Netzwerk (mc.dmh-network.de)
-- **GrüneEule** – Ein vielseitiger Projekt mit Bots, Websites und mehr
+- **GrüneEule** – Ein vielseitiges Projekt mit Bots, Websites und mehr
 - **HMTPlay** – Minigames-Website (hmt-play.hmt-network.de)
 
 ## 📫 Kontakt
