@@ -11,8 +11,8 @@
   <a href="https://github.com/jumpstone">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://jumpow.de">
-    <img src="https://img.shields.io/badge/Website-JumpOW.de-10b981?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/>
+  <a href="https://grueneeule.de">
+    <img src="https://img.shields.io/badge/Website-GrueneEule.de-10b981?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/>
   </a>
 
 </div>
@@ -57,16 +57,10 @@ Ich bevorzuge eine direkte Kommunikation ohne Umschweife und lerne am liebsten d
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jumpstone&locale=de&mode=weekly&theme=dark&hide_border=false&border_radius=12&background=0F0F0F&border=27272A&ring=10B981&fire=10B981&currStreakLabel=10B981&currStreakNum=E4E4E7&sideNums=E4E4E7&sideLabels=E4E4E7&dates=A1A1AA" alt="Henry's GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jumpstone&layout=compact&theme=dark&hide_border=false&bg_color=0f0f0f&border_color=27272a&title_color=10b981&text_color=e4e4e7" alt="Top Languages" />
 </div>
 
----
+<br>
 
 <div align="center">
   <p>© 2025 Henry | JumpStone. All rights reserved.</p>
