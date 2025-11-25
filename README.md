@@ -1,53 +1,69 @@
-# Hallo, ich bin Henry (JumpStone) 👋
+<div align="center">
 
-> **Developer & Hardware Enthusiast aus Osnabrück.**
-> <br>
-> *Lösungsorientiert. Direkt. Hands-on.*
+  <h1>Hi, ich bin Henry <span style="color: #10b981;">|</span> JumpStone </h1>
+  
+  <h3>Developer & Hardware Enthusiast aus Osnabrück</h3>
 
-Ich entwickle pragmatische Softwarelösungen und baue maßgeschneiderte Hardware-Systeme. Mein Fokus liegt darauf, Systeme wirklich zu verstehen – von komplexen Minecraft-Server-Netzwerken bis hin zum Löten von BMS-Komponenten.
+  <p>
+    <em>Lösungsorientiert. Direkt. Hands-on.</em>
+  </p>
 
----
+  <a href="https://github.com/jumpstone">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://grueneeule.de">
+    <img src="https://img.shields.io/badge/Website-GrueneEule.de-10b981?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/>
+  </a>
 
-### 🛠️ Tech Stack & Skills
-
-**Software & Tools**
-<br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Discord_API-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-
-**Hardware & Electronics**
-<br>
-<img src="https://img.shields.io/badge/Hardware_Build-10b981?style=for-the-badge&logo=arduino&logoColor=white" alt="Hardware" />
-<img src="https://img.shields.io/badge/Elektronik_&_PCB-10b981?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Elektronik" />
-<img src="https://img.shields.io/badge/BMS_&_Akkus-10b981?style=for-the-badge&logo=tesla&logoColor=white" alt="Battery" />
+</div>
 
 ---
 
-### 🚀 Ausgewählte Projekte
+## 👨‍💻 Über mich
 
-| Projekt | Beschreibung | Tech |
+Ich bin technikinteressiert, praktisch veranlagt und lösungsorientiert. Mein Fokus liegt darauf, Systeme zu verstehen und selbst zu bauen – von komplexen Minecraft-Server-Netzwerken bis hin zu physischen Hardware-Cases.
+
+Ich bevorzuge eine direkte Kommunikation ohne Umschweife und lerne am liebsten durch das Lösen echter Probleme (**"Learning by Doing"**). Meine Projekte reichen von Backend-Entwicklung mit PHP und Discord-API-Integrationen bis hin zur Elektronikplanung und dem Bau von tragbaren Computersystemen.
+
+---
+
+## 🛠 Tech Stack & Skills
+
+### Software & Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord_API-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</p>
+
+### Hardware & Electronics
+<p>
+  <img src="https://img.shields.io/badge/Elektronik-Planung-10b981?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardware-Build-10b981?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Battery-BMS_%2F_Akkus-10b981?style=for-the-badge&logo=tesla&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Ausgewählte Projekte
+
+| Projekt | Beschreibung | Tech Tags |
 | :--- | :--- | :--- |
-| **📦 DMH-Network** | Ein Minecraft-Netzwerk mit Fokus auf Survival und Crossplay (Java & Bedrock). Multi-Version-Support (1.8 - 1.21.4) via Velocity Proxy. | `Java` `Velocity` `Plugins` |
-| **🦉 GrüneEule** | Entwicklung von Discord-Bots, Web Tools, einem eigenen Minecraft Launcher und der zugehörigen Website. | `Web Dev` `Discord OAuth2` `API` |
-
----
-
-### ⚡ Über mich
-
-* 🔭 **Aktuell arbeite ich an:** Tragbaren Computersystemen und Backend-Optimierung.
-* 🧠 **Philosophie:** "Learning by Doing". Ich lerne am besten, indem ich echte Probleme löse.
-* 💬 **Kommunikation:** Ich bevorzuge direkte Kommunikation ohne Umschweife.
+| **📦 DMH-Network** | Ein Minecraft-Netzwerk mit Fokus auf Survival und Crossplay (Java & Bedrock). Einsatz von Velocity und Multi-Version-Support (1.8 - 1.21.4). | `Java` `Velocity` `Plugins` |
+| **🤖 GrüneEule** | Entwicklung von Discord-Bots, Web Tools, Minecraft Launcher und einer zugehörigen Website. | `Web Dev` `Discord API` `OAuth2` |
 
 ---
 
 <div align="center">
-  <a href="https://grueneeule.de" target="_blank">
-    <img src="https://img.shields.io/badge/Website-GrueneEule.de-10b981?style=for-the-badge&logo=globe" alt="Website" />
-  </a>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=jumpstone&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=10b981&icon_color=10b981" alt="Henry's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jumpstone&show_icons=true&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=10b981&icon_color=10b981" alt="Henry's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumpstone&layout=compact&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=10b981" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <p>© 2025 Henry | JumpStone. All rights reserved.</p>
 </div>
