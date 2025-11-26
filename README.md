@@ -11,8 +11,8 @@
   <a href="https://github.com/jumpstone">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://grueneeule.de">
-    <img src="https://img.shields.io/badge/Website-GrueneEule.de-10b981?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/>
+  <a href="https://jumpow.de">
+    <img src="https://img.shields.io/badge/Website-JumpOW.de-10b981?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/>
   </a>
 
 </div>
