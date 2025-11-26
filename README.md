@@ -53,6 +53,7 @@ Ich bevorzuge eine direkte Kommunikation ohne Umschweife und lerne am liebsten d
 | :--- | :--- | :--- |
 | **📦 DMH-Network** | Ein Minecraft-Netzwerk mit Fokus auf Survival und Crossplay (Java & Bedrock). Einsatz von Velocity und Multi-Version-Support (1.8 - 1.21.4). | `Java` `Velocity` `Plugins` |
 | **🤖 GrüneEule** | Entwicklung von Discord-Bots, Web Tools, Minecraft Launcher und einer zugehörigen Website. | `Web Dev` `Discord API` `OAuth2` |
+| **[🔋 AkkuCraft](https://akku-craft.vercel.app)** | Modulare Powerbank | - |
 
 ---
 
