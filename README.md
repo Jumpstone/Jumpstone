@@ -41,12 +41,4 @@ Ich bevorzuge eine direkte Kommunikation ohne Umschweife und lerne am liebsten d
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jumpstone&layout=compact&theme=dark&hide_border=false&bg_color=0f0f0f&border_color=27272a&title_color=10b981&text_color=e4e4e7" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <p>© 2025 Henry | JumpStone. All rights reserved.</p>
-</div>
+![Programming Language](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jumpstone&layout=compact&theme=dark&hide_border=false&bg_color=0f0f0f&border_color=27272a&title_color=10b981&text_color=e4e4e7)
