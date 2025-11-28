@@ -1,4 +1,4 @@
-# Hi, ich bin Henry.
+# Moin, ich bin Henry.
 
 ### Developer & Hardware Enthusiast aus Osnabrück
 
