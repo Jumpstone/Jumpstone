@@ -8,14 +8,6 @@
 
 ---
 
-## 👨‍💻 Über mich
-
-Ich bin technikinteressiert, praktisch veranlagt und lösungsorientiert. Mein Fokus liegt darauf, Systeme zu verstehen und selbst zu bauen – von komplexen Minecraft-Server-Netzwerken bis hin zu physischen Hardware-Cases.
-
-Ich bevorzuge eine direkte Kommunikation ohne Umschweife und lerne am liebsten durch das Lösen echter Probleme (**Learning by Doing**). Meine Projekte reichen von Backend-Entwicklung mit PHP und Discord-API-Integrationen bis hin zur Elektronikplanung und dem Bau von tragbaren Computersystemen.
-
----
-
 ## 🛠 Tech Stack & Skills
 
 ### Software & Development
