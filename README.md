@@ -10,16 +10,9 @@
 
 ## 🛠 Tech Stack & Skills
 
-### Software & Development
+### Tech Stack
 
-![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Discord_OAuth2-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Linux_/_Bash-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Static Badge](https://img.shields.io/badge/Elektronik-blue?style=for-the-badge&logo=lightning)
-![Static Badge](https://img.shields.io/badge/BMS_/_Akkus-white?style=for-the-badge)
-
-</p>
+https://skillicons.dev/icons?i=html,css,php,mysql,markdown,git,github,vscode,obsidian,cloudflare,ubuntu,raspberrypi,arduino,windows,apple,discord&perline=12
 
 ---
 
