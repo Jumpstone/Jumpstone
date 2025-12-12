@@ -18,6 +18,8 @@
 
 ![Image](https://skillicons.dev/icons?i=js,ts,python,php&perline=12)
 
+### Meiste Programmiersprachen
+
 ![Programming Language](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jumpstone&layout=compact&theme=dark&hide_border=false&bg_color=0f0f0f&border_color=27272a&title_color=10b981&text_color=e4e4e7)
 
 ---
