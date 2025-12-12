@@ -12,7 +12,7 @@
 
 ### Tech Stack
 
-https://skillicons.dev/icons?i=html,css,php,mysql,markdown,git,github,vscode,obsidian,cloudflare,ubuntu,raspberrypi,arduino,windows,apple,discord&perline=12
+![Image](https://skillicons.dev/icons?i=html,css,php,mysql,markdown,git,github,vscode,obsidian,cloudflare,ubuntu,raspberrypi,arduino,windows,apple,discord&perline=12)
 
 ---
 
