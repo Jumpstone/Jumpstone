@@ -14,6 +14,10 @@
 
 ![Image](https://skillicons.dev/icons?i=html,css,php,mysql,markdown,git,github,vscode,obsidian,cloudflare,ubuntu,raspberrypi,arduino,windows,apple,discord&perline=12)
 
+### Am lernen
+
+![Image](https://skillicons.dev/icons?i=js,ts,python,php&perline=12)
+
 ---
 
 ## 🚀 Ausgewählte Projekte
