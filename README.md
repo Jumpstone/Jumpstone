@@ -3,7 +3,7 @@
 ### Developer & Hardware Enthusiast aus Osnabrück
 
 [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/jumpstone)
-[![Static Badge](https://img.shields.io/badge/Website-JumpOW.de-green)](https://jumpow.de)
+[![Static Badge](https://img.shields.io/badge/Website-JumpStone4477.de-green)](https://jumpstone4477.de/)
 [![Static Badge](https://img.shields.io/badge/Discord-%40JumpStone4477-blue?logo=discord)](https://discord.com/users/1008346032230387752)
 
 ---
