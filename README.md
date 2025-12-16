@@ -24,9 +24,17 @@
 
 ---
 
+# ORCID
+
+Weitere Informationen zu meinen wissenschaftlichen Arbeiten und Publikationen findest du unter meinem ORCID-Profil:
+
+[![Static Badge](https://img.shields.io/badge/ORCID-green)](https://jumpstone4477.de/orcid)
+
+---
+
 ## 🚀 Ausgewählte Projekte
 
-| Projekt            | Beschreibung                                                                                                                                  | Tech Tags                        | Links                                                                                                                                                                                                          |
-| :----------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **🤖 GrüneEule**   | Entwicklung von Web Tools und mehr.                                    | `Frontend` `Backend` | [![Static Badge](https://img.shields.io/badge/Website-GrueneEule.de-darkgreen)](https://grueneeule.de) [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/grueneeule) |
-| **🔋 AkkuCraft**   | Entwicklung einer modularen Powerbank welche beliebig erweiterbar ist.                                                                        | `BMS` `Arduino`                  | [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/akku-craft) [![Static Badge](https://img.shields.io/badge/Website-Docs-blue)](https://akku-craft.vercel.app)       |
+| Projekt          | Beschreibung                                                           | Tech Tags            | Links                                                                                                                                                                                                          |
+| :--------------- | :--------------------------------------------------------------------- | :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **🤖 GrüneEule** | Entwicklung von Web Tools und mehr.                                    | `Frontend` `Backend` | [![Static Badge](https://img.shields.io/badge/Website-GrueneEule.de-darkgreen)](https://grueneeule.de) [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/grueneeule) |
+| **🔋 AkkuCraft** | Entwicklung einer modularen Powerbank welche beliebig erweiterbar ist. | `BMS` `Arduino`      | [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/akku-craft) [![Static Badge](https://img.shields.io/badge/Website-Docs-blue)](https://akku-craft.vercel.app)       |
