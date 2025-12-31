@@ -24,14 +24,6 @@
 
 ---
 
-# ORCID
-
-Weitere Informationen zu meinen wissenschaftlichen Arbeiten und Publikationen findest du unter meinem ORCID-Profil:
-
-[![Static Badge](https://img.shields.io/badge/ORCID-green)](https://jumpstone4477.de/orcid)
-
----
-
 ## 🚀 Ausgewählte Projekte
 
 | Projekt          | Beschreibung                                                           | Tech Tags            | Links                                                                                                                                                                                                          |
