@@ -24,9 +24,9 @@
 
 ---
 
-## 🚀 Ausgewählte Projekte
+## Projekte
 
 | Projekt          | Beschreibung                                                           | Tech Tags            | Links                                                                                                                                                                                                          |
 | :--------------- | :--------------------------------------------------------------------- | :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **🎮 JS Gaming** | Modpacks, Resourcepacks und mehr                                    | `Minecraft` | [![Static Badge](https://img.shields.io/badge/Modrinth-JS_Gaming-darkgreen)](https://modrinth.com/organization/jumpstone-gaming) [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/jumpstone-gaming) |
+| **🎮 JS Gaming** | Entwicklung von Modpacks, Resourcepacks und mehr.                                    | `Java` `Design` | [![Static Badge](https://img.shields.io/badge/Website-blue)](https://jumpstone4477.de/gaming) [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/jumpstone-gaming) |
 | **🔋 AkkuCraft** | Entwicklung einer modularen Powerbank welche beliebig erweiterbar ist. | `BMS` `Arduino`      | [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/akku-craft) [![Static Badge](https://img.shields.io/badge/Website-Docs-blue)](https://akku-craft.vercel.app)       |
