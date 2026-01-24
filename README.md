@@ -8,19 +8,21 @@
 
 ---
 
-## 🛠 Tech Stack & Skills
+### Stats
 
-### Tech Stack
+![Stats](https://github-readme-stats.vercel.app/api?username=JumpStone&show_icons=true&theme=dark)
 
-![Image](https://skillicons.dev/icons?i=html,css,php,mysql,markdown,git,github,vscode,obsidian,cloudflare,bash,powershell,ubuntu,raspberrypi,arduino,windows,apple,discord&perline=12)
+### Streak
 
-### Am lernen
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JumpStone&theme=dark)
 
-![Image](https://skillicons.dev/icons?i=js,ts,python,php&perline=12)
+### Programmiersprachen
 
-### Meiste Programmiersprachen
+![Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=JumpStone&layout=compact&theme=dark)
 
-![Programming Language](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jumpstone&layout=compact&theme=dark&hide_border=false&bg_color=0f0f0f&border_color=27272a&title_color=10b981&text_color=e4e4e7)
+### Contribution
+
+![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=JumpStone&theme=github-dark)
 
 ---
 
