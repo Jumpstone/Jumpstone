@@ -2,23 +2,29 @@
 
 ### Developer & Hardware Enthusiast aus Osnabrück
 
-[![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/jumpstone)
-[![Static Badge](https://img.shields.io/badge/Website-JumpStone4477.de-green)](https://jumpstone4477.de/)
-[![Static Badge](https://img.shields.io/badge/Discord-%40JumpStone4477-blue?logo=discord)](https://discord.com/users/1008346032230387752)
+<p>
+<a href="https://github.com/jumpstone"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+<a href="https://jumpstone4477.de/"><img src="https://img.shields.io/badge/Website-JumpStone4477.de-green?style=for-the-badge" alt="Website"></a>
+<a href="https://discord.com/users/1008346032230387752"><img src="https://img.shields.io/badge/Discord-%40JumpStone4477-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+</p>
 
 ---
 
-### Stats | Streak
+**Stats**
 
-![Stats](https://github-readme-stats.vercel.app/api?username=JumpStone&show_icons=true&theme=dark) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JumpStone&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=JumpStone&show_icons=true&theme=dark)
 
-### Programmiersprachen
+**Streak**
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JumpStone&theme=dark)
+
+**Programmiersprachen**
 
 ![Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=JumpStone&layout=compact&theme=dark)
 
-### Contribution
+**Contribution**
 
-![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=JumpStone&theme=github-dark)
+![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=JumpStone&theme=github-dark&area_width=400)
 
 ---
 
